@@ -23,7 +23,7 @@
         <digest_subject/>
         <digest_template/>
         <digest_text/>
-        <digestable>false</digestable>
+        <digestable>true</digestable>
         <enable_dynamic_translation>false</enable_dynamic_translation>
         <event_name>sc_task.assigned.to.group</event_name>
         <event_parm_1>false</event_parm_1>
@@ -60,7 +60,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path/>
         <sys_id>03973320c0a801020075d86be149dcbb</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Email assigned to group (sc_task)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Mobile UI" source="com.glide.ui.m">1175f4f57d31311076daf29f52070d0e</sys_package>
@@ -68,7 +68,7 @@
         <sys_scope display_value="ECMA">0c4e71cf93673110346ab1dcebba109f</sys_scope>
         <sys_update_name>sysevent_email_action_03973320c0a801020075d86be149dcbb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-10 00:51:56</sys_updated_on>
+        <sys_updated_on>2024-01-10 01:07:43</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="sc_task.itil.role">03987295c0a801020007beda58d7cd66</template>
         <type>email</type>
